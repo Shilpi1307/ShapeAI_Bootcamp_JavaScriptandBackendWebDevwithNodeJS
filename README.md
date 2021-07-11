@@ -1,1 +1,1 @@
-# ShapeAI_Bootcamp_JavaScriptandBackendWebDevwithNodeJS
+# ShapeAI Bootcamp JavaScript and Backend Web Dev with NodeJS
